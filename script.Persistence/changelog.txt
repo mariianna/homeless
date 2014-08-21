@@ -1,2 +1,0 @@
-Updated March 25, 2009
-- Initial commit.

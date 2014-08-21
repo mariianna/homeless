@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<strings>
-    <string id="30000">Path or share to media</string>
-    <string id="30010">Content type</string>
-    <string id="30020">WOL mac addresses &quot;##:##:##:##:##&quot; (separate macs with | (pipes))</string>
-    <string id="30030">- Port to test connection(s)</string>
-    <string id="30040">- Retries to test connection(s) (5 sec)</string>
-</strings>

@@ -1,9 +1,0 @@
-Repository: http://xbmc-scripting.googlecode.com/svn/trunk/
-
-
-Author:
-Nuka1195
-
-
-About:
-Will make a plugin which links to one of your media libraries.

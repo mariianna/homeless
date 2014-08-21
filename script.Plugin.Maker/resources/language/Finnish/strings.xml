@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<strings>
-<!-- Finnish 21.7.2008 -->
-    <string id="30000">Polku tai videoiden sijainti</string>
-    <string id="30010">Sisällön tyyppi</string>
-    <string id="30020">WOL mac osoitteet &quot;##:##:##:##:##&quot; (erota osoittet | -merkillä)</string>
-    <string id="30030">- yhteyden testaus portti</string>
-    <string id="30040">- yhteyden testauksen yritysten määrä (5 sek)</string>
-</strings>
