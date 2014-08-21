@@ -1,0 +1,137 @@
+Navi-X FAQ & Technische Dokumentation Abschnitt
+Bitte besuchen Sie für weitere http://navix.turner3d.net Navi-X-Unterstützung! Team Navi-X
+
+---- A ---- ÜBER NAVI-X
+
+(1.) Was ist die Navi-X? (Siehe "Content Aggregator" oder "Aggregator" am http://en.wikipedia.org/wiki/Aggregator)
+* Die Navi-X Media Browser ist ein "Content Aggregator" dass der Zugang zu allen Arten von Multimedia-Inhalten auf einem öffentlichen Verzeichnis des Benutzers aufgeführt beigetragen Inserate oder Wiedergabelisten für die Wiedergabe auf Ihrem Fernseher oder PC bietet! Benutzer können Inhalt und Wiedergabe Video-Link, Audio, Bilder, Podcasts, Texte, RSS-und HTML im Internet und teilen Sie sie mit Menschen aus aller Welt in Sekunden! Erstellen Sie vollständig anpassbare Wiedergabelisten mit Hintergründen, Logos und Symbole sowie Link zu Ihrer bevorzugten Multimedia im Internet oder suchen Sie die bereits bestehende Verzeichnis von öffentlich zugänglichen Inhalten, in einem eleganten, schnellen und einheitlichen Anwendung! Navi-X ist ein Multi-Plattform-Addon für XBMC und Boxee, beliebte und kostenlose Media-Center-Anwendungen auf Windows, Mac, Linux, Apple TV und der ursprünglichen Xbox (modifiziert). Wir sind auch immer auf der Suche um einen Geschmack von Navi-X auf allen Plattformen wir können setzen.
+
+(2.) Welche Navi-X kompatibel?
+* XBMC und Boxee: Windows, Mac und Linux. XBMC4Xbox: Original Xbox (modifiziert). WiiMC: Nintendo Wii. IOS: Apple TV 1 & 2, iPhone 4 und iPad.
+
+(3.) Was kann ich auf Navi-X finden?
+* Sämtliche Arten von Medieninhalten. Videos, Audio, Bilder, Podcasts, Texte, Live-Cams, html, alles, was einen Medientyp zum größten Teil in Navi-X zu finden ist. TV-Shows, Filme, Musik, Podcasts, Bilder, Apps und User eingereicht Links zu im Internet und unabhängige Inhalte sowie für Unterhaltung unterwegs Demand-Inhalten.
+
+(4). Bedeutet Navi-X-Host die Dateien und Inhalte in Navi-X gefunden?
+* Nr. Navi-X nur Links auf die Internet-Inhalte, sei es durch öffentlich zugängliche Kanäle oder vom Benutzer übermittelten Links auf die Internet-Inhalte. Wir haben nie Gastgeber einer Multimedia-Inhalte, also Inhalte wäre nicht verfügbar, wenn eine bestimmte Website wurde nach unten oder nicht mehr dienen solche Inhalte von ihrer Website.
+
+(5). Warum sollte ich Navi-X?
+* Navi-X ist eine freie und Open-Source-Projekt. Sie können alles manipulieren in Navi-X Sie möchten und Sie können Ergänzungen, um ihn mit Ihren eigenen Code-Implementierungen zu machen. Viele Leute haben uns gesagt verschiedene Antworten, warum sie Navi-X von Abnabelung für TV Rechnungen zu verwenden, um colsolidating alle ihre Bedürfnisse Medien und vielen anderen Gründen, wahrscheinlich aber, weil meist Navi-X bringt Internet-Inhalte in ein Wohnzimmer Fernsehen kostenlos von Inhalten, die bereits im Internet for free! Schauen Sie sich die Navi-X und du sagst uns, warum Sie es selbst nutzen!
+
+(6). Hintergrund der Navi-X und Team Navi-X
+* Navi-X wurde ursprünglich von Rodejo, Drehbuchautor von Python-Code aus den Niederlanden entwickelt. Navi-X wurde ursprünglich für XBMC für die Xbox auf 1. April 2007 erstellt. Navi-X ursprünglich nur zurück Medieneinheiten von Video-und Audioinhalte gespielt und wurde schließlich zu enthalten viele andere Medientypen wie Texte, rss erweitert, Streams live und Podcasts. Derzeit gibt es insgesamt 2 Entwickler, 1 technische Unterstützung rep und Koordinator des Projekts, und eine Handvoll Leute, die das Projekt mit verschiedenen Projekten mitarbeiten.
+
+---- ---- B WIE KANN ICH INSTALLIEREN NAVI-X
+
+(1.) Auf XBMC
+* Zur Installation auf XBMC, gehen Sie zu www.Navi-X.org und klicken Sie auf "Downloads", dann "Download Navi-X", um die neueste Version verfügbar. Laden Sie die Zip-Datei auf Ihrem Desktop. Open XBMC und auf "System" klicken, dann "Einstellungen", dann "Addons" und "Software von Zip-File". Wählen Sie den Speicherort auf Ihrem Computer gespeichert, wo Sie die Navi-X und wählen Sie die ZIP-Datei. Navi-X sollte jetzt in XBMC unter "Programme". Um
+Update Navi-X: Öffnen Sie die Navi-X auf Ihrem XBMC Gehen Sie auf "Navi-X Home" - "Navi-X-Updates" und installieren Sie die neueste Skript.
+
+(2). Auf Boxee
+* Von den Boxee Startseite. Gehen Sie auf "Apps" auf den App-Bibliothek oder Meine Apps zu erhalten. Gehen Sie zu "Repositories" in der linken slide-out-Menü. Klicken Sie auf "Add Repository". Geben oder fügen (Strg + V) den repositorys Adresse in das URL-Leiste: http://tinyurl.com/navixforboxee. Wählen Sie "Fertig" und bestätigen Sie, dass das Repository auf der Repository-Liste auf den folgenden Meine Repositories Bildschirm wurde hinzugefügt. Öffnen Sie nun das neue Repository hinzugefügt und wählen Sie die App (s) du willst und klicke auf "To My Apps hinzufügen". Nun gehen Sie zurück zu "Meine Apps" und die neu hinzugefügte Programm wird auf Ihre individuelle Liste hinzugefügt werden.
+
+(3.) Welche Version von Navi-X-oder Media-Center-Software, die ich brauche?
+* Jedes Mal, Navi-X-oder Media-Center-Software eine neue Version werden neue Verbesserungen und Änderungen in jedem Release implementiert. Dies bedeutet auch, dass dies möglicherweise bringt Kompatibilitätsprobleme mit jedem Update. Achten Sie darauf, die neueste Version Version des Navi-X zur Verfügung. Wahrscheinlich die neueste Version Version des Navi-X ist kompatibel mit den neuesten "stable"-Software verfügbar von Ihrem Media Center-Software.
+
+---- ---- C Media Center Software
+
+(1). Wie verwende ich XBMC oder Boxee?
+* Bitte erreichen, um Mitarbeiter an XBMC oder Boxee Foren für weitere Details. Wir unterstützen nur die Navi-X-Funktionen. Suche google.com für "Boxee Foren" oder "xbmc Foren" für weitere Unterstützung helfen und Details.
+
+(2.) Spielt es eine Rolle, auf welcher Plattform ich Navi-X Einsatz auf?
+* Jedes Plattformen hat seine eigenen Vorteile und Nachteile in Bezug auf Funktionalität. Informieren Sie sich auf das, was jeder Plattform bietet sich und Sie werden einige Unterschiede für sich selbst betrachten zu sehen. Die einzige große Unterschied ist, Boxee hat einen Web-Browser eingebaut, um HTML-Typen zu unterstützen, während XBMC nicht. Jedes Display auch die Navi-X ein wenig anders, so versuchen beide, wenn Sie die Unterschiede sehen möchten.
+
+(3.) Warum ist ein Feature für Navi-X auf einer Plattform nicht auf einer anderen Plattform?
+* Nicht alle Plattformen sind die gleichen erstellt. Selbst kleine Unterschiede können abwerfen Funktionalität vollständig zwischen einem Media-Center-Anwendung und andere. Zu dieser Zeit arbeiten wir derzeit an der Umsetzung aller Funktionen aus XBMCs Version von Navi-X Boxees Version, aber das wird einige Zeit dauern. Erinnern Sie sich, wurde Navi-X ursprünglich eine ausschließliche XBMC App nur, jetzt ist es ein Multi-Plattform-Anwendung ist, und wir müssen alle Funktionen für alle Plattformen im Laufe der Zeit erweitern.
+
+---- ---- C2 Media Center Software FAQ
+
+(4). Warum WiiMCs Version des Navi-X nur über begrenzte Funktionalität?
+* WiiMC hat sehr Funktionalität zu diesem Zeitpunkt und Entwicklung beschränkt werden ziemlich bald wieder für Navi-X am WiiMC. Derzeit unterstützt er nicht Prozessoren oder etwas anderes als Audio-oder Video direkt auf eine Medien verknüpfte Datei direkten URL im Internet. (Beispiel: http://www.whatever.com/video.avi) Leider können wir nicht einfach aktualisieren WiiMC mit einem Python-Modul zur Ausführung dieser Funktion so einem Server gehostet Funktion wird derzeit reserched.
+
+(5). Bedeutet Navi-X für Boxee einen "Favoriten"-Sektion?
+* Um "Add to Favorites" müssen Sie rechts auf Ihrer Tastatur drücken. Denken Sie daran, dies ist nur möglich im Blick: Liste. Und geben Sie auf Ihrer Tastatur Favoriten, sehen Sie "Favoriten" knapp unter "Home" siehe links drücken.
+
+(6). Navi-X Gesamtübersicht: Kontext-Menü, das Herunterladen und Bugs
+* Kontext-Menü: Es gibt viele Optionen auf den "Kontext-Menü": zB automatisch spielen neben Videos in der Liste, eine Datei herunterzuladen und vieles mehr. Wie bringen Kontextmenü? Google-Suche für Allgemeine Navigation XBMC. Auf Apple TV Remote Halten Sie die Taste "Menü", um es anzuzeigen. Herunterladen: Immer versuchen, die Datei auf einmal herunterladen, Neustart Download oft tut wirken. Nasty Bugs auf XBMC: Erste "Error: Can't Open File" Das führt zuweilen dazu, nicht in der Lage, jede Playlist öffnen und eine von XBMC Neustart erforderlich ist, um das Problem zu beheben. Und Miniaturansicht nicht mehr laden auf Begriffe, müssen Sie die Navi-X neu starten, um dieses Problem zu lösen. Leider sind beide diese Fehler tritt auf, wenn man lange genug durch Navi-X Navigieren durch einen Fehler in der Media Center Software, die schwer zu verstehen, damit wir nicht zu verwechseln Ihnen mit diesen Informationen ist.
+
+---- ---- D FRAGEN SPIELEN & ERÖFFNUNG Videos und andere Dateien
+
+(1.) Muss mein Internet-Verbindung haben, um bei einer bestimmten Geschwindigkeit laufen zu Navi-X zu verwenden?
+* Es wird empfohlen, Sie haben ein Anschlusskabel von mindestens 384kbit / s oder einem DSL-lite Highspeed-Breitband-Anschluss. Dies sollte für die meisten Content-Quellen ausreichend. Navi-X wird nicht mit einem DFÜ-Modem zu betreiben, ist eine Hochgeschwindigkeits-Internetverbindung erforderlich. Ein unsicherer drahtlose Verbindung kann auch leider nur allzu üblich, auch unter denjenigen mit der besten Ausrüstung. Fragen Sie Ihren Wireless-Hersteller für die Fehlerbehebung Ihres Routers und dabei sicherstellen, es korrekt konfiguriert oder dass Sie es mit einer Kabelverbindung verbunden. Dies könnte drastisch Wirkung Wiedergabe von Inhalten so gut und Sie wissen vielleicht nicht einmal das Problem sein.
+
+(2.) Warum Navi-X Puffer viel oder Pause während der Wiedergabe einer Datei?
+* Navi-X ist eigentlich nicht Pufferung ist die Website, die Sie von Streaming-Pufferung Ihre Verbindung. Dies ist normalerweise aufgrund mangelnder Ressourcen oder hohe Nutzungszeiten für eine bestimmte Website zum Streamen von Content. Sie können entweder versuchen Rückkehr zu einem weniger hektischen Zeit oder versuchen Sie einen anderen Ursprung in Navi-X.
+
+(3.) Wenn ich einen Film online von Navi-X, ist es immer Puffer, Pausen oder abstürzt? Kann ich etwas dagegen tun?
+* Es gibt viele Gründe für einen Film nicht in Navi-X spielen. Die Datei, die Sie versuchen können, um wieder spielen wird von zahlreichen Anwendern genutzt und es gibt nicht genug Bandbreite zur Verfügung von einer bestimmten Website Quelle in Frage, um Ihnen eine stetige Verbindung zum Streaming-Wiedergabe. Das ist alles zu gemeinsamen Video-Sharing-Sites, die überwiegend in Film und TV Episode Videos. Auch manchmal gibt es Beschränkungen für Sie durch eine Website, die verhindern, dass Sie Streaming solche Inhalte, wie Megavideo zeitlichen Beschränkungen des 72-Minuten-Wiedergabe mit einer Stunde Wartezeit, bevor Sie Inhalte aus ihnen wieder beobachten kann, gelegt. Videofriender hat auch eine Zurückhaltung, wo, wenn ein Uploader geht über ihre jeweilige Bandbreite Zuteilung auf Videofriender, wird ihr Inhalt nicht verfügbar ist, bleibt aber in den Listen für Benutzer Wiedergabe unabhängig.
+
+(4.) Warum eine Datei oder einen Link, den ich versuche zu spielen nicht in Navi-X bin?
+* Es gibt viele Gründe für eine Datei nicht in Navi-X spielen. Der Dateityp kann nicht von Ihrem Media Center oder die Datei doesnt unterstützt werden mehr existiert (Leider schlägt man nicht immer eine Meldung "File Not Found") oder ist nicht verfügbar, da Bandbreite Beschränkungen, er Liste geht weiter und weiter. Stellen Sie sicher, dass die Datei mit dem Media Center ist und fast alle sollten gut sein. Kontakt für weitere Hilfe. Ist dies in Bezug auf ein "Film", lesen Sie bitte - D - (. 3) zuerst.
+
+(5). Warum kann ich nicht sehen Inhalten aus anderen Regionen der Welt?
+* Manchmal bestimmte Länder oder Leitungsgremien Ort regionalen Beschränkungen für Content-Distribution außerhalb Ländern aus verschiedenen Gründen, einschließlich der staatlichen, finanziellen und rechtlichen Gründen. Wenn der Inhalt ist nicht aus einem bestimmten Land für Sie verfügbar ist, wird dies in der Regel durch eine Bekanntmachung im Video-Feed oder Ihre Unfähigkeit zur Wiedergabe der Inhalte von Ihrem Ursprung eingebettet angegeben werden. Manchmal kann man das umgehen, indem über einen Proxy im selben Land wie der Inhalt gehostet in. Wenn Sie möchte einen Proxy verwenden, bis auf XBMC oder Boxees Proxy-Einstellungen lesen Sie bitte via google.com ist erhalten.
+
+(6). Was bedeutet die Fehlermeldung "File Not Found" bedeuten?
+* Genau das, was er sagt, Datei nicht gefunden. Es könnte ein paar Gründe für diese jedoch. Die Datei konnte an der Stelle, wo er wohnt entfernt worden sein. Die Website kann sehr beschäftigt und konnte nicht schnell genug liefern Inhalte für den Media Player zu streamen erfolgreich. Die Website, die Sie versuchen zu streamen aus könnte für Wartungsarbeiten heruntergefahren. Wenn Sie diese Fehlermeldung erhalten, versuchen Sie die Quelle wieder verlassen oder Navi-X vollständig und dann gehen Sie zurück und versuchen, das gleiche Element in Frage erneut zu spielen. Wenn der Fehler bleibt, könnte es nur eine schlechte Verbindung, die nicht aus einer Wiedergabeliste entfernt worden sein. Dies ist sehr unwahrscheinlich, wenn auch passieren, aber es gelegentlich passieren.
+
+---- ---- D2 SEITEN, DIE IM Puffer von NAVI-X
+
+(7). Liste der Websites, die bekanntermaßen Links zu Dateien haben sollen, dass, kann sehr lange Zeit aus oder wird Puffer.
+* Buffer sehr lange: z. B. 66stage + + Novamov, Movshare + + Veehd, VidIcs + und + Videofriender, lesen - D - (. 3), warum. Time out: z. B. Opensubtitles.org + lesen - D - (2.) Warum. Megavideo + lesen - D - (3.) Warum und erinnern anderen Seiten verlinken auf megavideo (zB 66stage und Animefreak.tv) liegt. MTV + Videos + Tropfen nach - 2 Minuten auf eine Menge von Mediaplayern. Wenn Sie möchten, um dieses Problem zu berichten, in Kontakt mit dem Personal oder Forum Ihrer Mediaplayer.
+
+(8). Liste der Websites, die bekanntermaßen nur in der Lage sein, Inhalte aus bestimmten Regionen Ansicht sind.
+* ABC + nur sichtbar Vereinigten Staaten und ihren Territorien. CBS + neben dem Nachrichten-Inhalte (z. B. 48 Rätsel, 60 Minuten und CBS Evening News) alle Inhalte werden nur in den Vereinigten Staaten spielen. Crackle + einige Inhalte in Kanada, Großbritannien und Australien zur Verfügung. Der gesamte Inhalt ist verfügbar in den USA, ohne US-Territorien. PBS + einige Inhalte sind nicht global sichtbar, wahrscheinlich das sind nur sichtbar in den Vereinigten Staaten. Veehd + erlaubt US, CA, GB, NL, DE, FR, BE, AU, DK, FI, IE, LU, NO, SE. Gesperrt: alle anderen Länder. Sie können dieses System durch eingeloggt zu sein (derzeit Login nicht auf Navi-X machbar) zu umgehen. Youtube + einige Videos sind nicht global sichtbar. Lesen - D - (5). Deshalb gibt es regionale Beschränkungen.
+
+---- ---- E Playlist auf NAVI-X
+
+(1.) Was ist eine Playlist?
+* Eine Playlist ist eine Liste mit Links zu Medien-Links oder andere Gegenstände. Seine ähnlich wie in anderen Playlists z.B. einen Ordner auf Ihrem PC.
+
+(2.) Was ist ein Media-Link oder Artikel?
+* Dieser bezieht sich auf jede URL-Link zu einer Datei, die von Video-, Audio-, Bild, Podcasts, Text-Dokument oder HTML-Dokument (nur Boxee), die im Internet dargestellt werden und ist offen zum Download verfügbar ist.
+
+(3.) Was ist der Playlist - Navi-X-Networks?
+* Navi-X Networks ist unser organisiert Content-Portal, in Content-Typen und Abschnitte unterteilt und kategorisiert für den Gebrauch. Es enthielt auch Highlights der neuen Inhalte, die in Navi-X, neue Projekte und Partnerschaften zu markieren und eine Liste aller wichtigen Schaber und Prozessoren für Zusammenstellung von Inhalten aus vielen kommerziellen Rundfunk-Sites in Navi-X finden Sie hier.
+
+(4.) Was ist der Playlist - Navi-Xtreme Media Portal?
+* Navi-Xtreme ist unsere Benutzer-Vorlage-Portal für die Erstellung eigener Playlisten mit Links zu jeder Art von Inhalt, den Sie suchen im Internet. Menschen Wiedergabelisten erstellen mit Inhalten, die bereits so, wenn Sie nicht wollen, zu Ihrem eigenen Links hinzufügen, genießen Sie die Inhalte bereits von anderen Benutzern hinzugefügt.
+
+---- ---- E2 NAVI-Xtreme und ONLINE PLAYLISTS
+
+(5). Wie füge ich Links zu Dateien oder machen Sie eine Wiedergabeliste in Navi-X mit der Navi-Xtreme?
+* Sobald Sie angemeldet haben und erstellt einen Account bei http://navix.turner3d.net, anmelden. Zuerst müssen Sie die Grundlagen zu verstehen. Klicken Sie auf "Forum" auf der linken Seite des http://navix.turner3d.net und lesen Sie "Hilfe und Support"> "Playlist-Editor: Die Grundlagen". Als zu "Meine Playlists" wieder auf der linken Seite zu gehen. Hier ist, wo Sie den Playlist-Editor für Navi-Xtreme finden. Wenn Ihr mit deiner Playlist fertig sind, werden Sie es auf "Navi-X" zu finden. Gehen Sie auf "Navi-Xtreme Medienportal" - "Meine Playlisten".
+
+(6). Wie melde ich mich oder registrieren Sie sich für Navi-Xtreme?
+* Sie können wählen http://navix.turner3d.net und melden Sie sich für einen kostenlosen Hosting-Account Playlist für Navi-X. Wenn Sie nicht bekommen eine Bestätigung per Email, löschen Sie die "Temporary Internet Files" oder Cache in Ihrem Browser, starten Sie den Browser und versuchen Sie die Registrierung wieder. Dies behebt 99% aller Probleme mit der Anmeldung.
+
+(7). Benutzerprofil Navi-Xtreme
+* Mit dem Benutzerprofil auf Navi-Xtreme können Sie zum Beispiel wählen: Liste meine Sachen in die Browse-by-User-Bereich und die Qualität der Youtube Video möchten zu bekommen. So zeigen Sie das Benutzerprofil. Gehen Sie auf die linke Spalte einer Webseite auf http://navix.turner3d.net finden Sie eine Box mit "Benutzername" angemeldet Und Klicken Sie auf Ihren Benutzernamen.
+
+(8). Was ist das Navi-Xtreme Simulator?
+* Die Navi-Xtreme Simulator (SIM) ist eine webbasierte Emulator-Fenster für das Navi-X-Anwendung. Es wird verwendet und bedeutete als Prüf-Replik von Benutzern und Mitarbeitern für die Anzeige, was einer Playliste wird wie in Navi-X aussehen. Für die Mitarbeiter ist es auch nützlich, zu debuggen und herausfinden, Wiedergabe-Probleme für alle Arten von Inhalten im Internet. Denken Sie daran, die SIM können Sie öffnen und die Wiedergabe der meisten Arten von Inhalten, aber nicht alles. Weitere Einzelheiten auf der Homepage http://navix.turner3d.net/, scrollen Sie nach unten auf "Vorschau". Um das Beste aus der SIM-Karte müssen Sie nutzen den Webbrowser "Firefox" und Installieren der SIM-Prozessor-Engine ("Greasemonkey" und ein "Navi-X-Script"). Zum Download der Sim-Prozessor-Engine, wieder auf der Homepage Gehen Sie auf "Downloads" - "Sim-Prozessor-Engine".
+
+---- ---- E3 ERSTELLEN dynamische Playlists
+
+(9). Kann ich meine eigenen Schaber oder Prozessor?
+* Ja. Das "Navi-X Instructional Prozessor Language (NIPL)" kann beim http://navix.turner3d.net/proc_docs gefunden werden. Es gibt keinen Leitfaden für die Erstellung von Schabern, so wird Google diese Informationen auf.
+
+(10.) Was ist Schaber und Prozessor?
+* Ein Schaber ist eine serverseitige Skript, das Layout einer Web-Inhalte liest (die meisten communly XML strukturiert) und wendet diese Links in ein Navi-X kompatibel Playlist hinzugefügt. Ein Prozessor ist eine serverseitige Skript, das die URL streamable Inhalt einer Webseite Graps, so spielt er wieder korrekt auf einem Media-Center-Player. Dies ist nur für Websites, die dynamische Verknüpfung von Inhalten und nicht direkt verlinken Mediendateien verwenden erforderlich.
+
+---- F ---- NOCH FRAGEN?
+
+(1.) Wo bekomme ich Hilfe und Unterstützung für Navi-X?
+* Für alle Plattformen, auf Navi-xtreme Foren http://navix.turner3d.net/forums oder shoutbox http://navix.turner3d.net gehen. Lesen - E - (5). Wie zu unterzeichnen bei navi-Xtreme. Für Boxee Plattformen zu gehen http://forums.boxee.tv/showthread.php?t=18376
+
+(2.) Soll ich shoutbox oder Post meine Fragen im Forum?
+* Wenn Sie bereits Ihre Antwort in den Foren finden Sie unter http://navix.turner3d.net/forums dann brauchen Sie nicht weiter zu verfahren ist. Wenn Sie mit einem Mitglied des Team Navi-X in Bezug auf einen bestimmten Punkt, den Sie in den Foren bereits besprochen gesprochen und habe eine Frage, die nicht erfordert mehr als 2 Sätzen zu antworten, hinterlassen Sie eine Nachricht in der Shoutbox Chat und ein Mitarbeiter sinkt eine 1 oder 2, Zeile Antwort für Sie zu einem späteren Zeitpunkt zu finden. Sie können auch "The Last 24 Hours"-Link oberhalb der Chat-Box auf Antworten, die Sie verpasst haben, finden kann.
+
+(3.) Wie melde ich einen technischen Fehler für Navi-X?
+* Wenn Sie ein technisches Problem mit der Navi-X-Bericht, stellen Sie sicher, dass das Forum sehr schnell sehen, ob es nicht gemeldet hat zunächst geprüft. Wenn Sie nicht finden, eine Antwort zu diesem, eine Nachricht in den Foren, bookmarken Sie es und kommen zurück, um es an einem Tag zu sehen, ob es nicht eine Antwort von einem Mitglied des Team Navi-X gegeben worden ist. Bitte haben Sie Geduld, wenn Ihre Frage nicht beantwortet wird sofort haben Mitarbeiter lebt außerhalb der Navi-X sowie es glauben oder nicht. : P
+
+(4). Wie kann ich direkt Team Navi-X mit Fragen?
+* Sie können Team Navi-X, indem Sie auf www.Navi-X.org und klicken Sie auf Kontakt zu erreichen. Jeder Abschnitt in Navi-X ist so erreichen, um die entsprechenden Ansprechpartner für Ihr spezielles Problem aufgeführt.
+
+(5). Warum bin ich nicht immer eine Antwort auf meine Fragen zum technischen Support?
+* Wir haben nur 1 dedizierten technischen Support rep zu diesem Zeitpunkt und eine hilfreiche Gemeinschaft von Nutzern, die über diese Dinge sind. Manchmal unser Leben bekommen beschäftigt oder sind wir auf andere Dinge arbeiten und vergessen, in jeder Zeit zu Zeit zu überprüfen. Bitte nicht aufregen. Versuchen Sie zu erreichen, um ein Kerl Navi-X-Benutzer und sehen, ob sie kippen Ihre Fragen zu beantworten, wenn Sie welche haben. Jemand wird schließlich die Antwort auf Ihre Frage an Sie, sofern es nicht eine Frage, die Flamme ein Argument gemeint ist.

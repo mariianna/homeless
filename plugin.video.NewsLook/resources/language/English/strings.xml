@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+  <!-- Title -->
+  <string id="30000">NewsLook</string>
+
+  <!-- Directory -->
+  <string id="30201">Top News</string>
+  <string id="30202">World</string>
+  <string id="30203">USD</string>
+  <string id="30204">Finance</string>
+  <string id="30205">Science</string>
+  <string id="30206">Technology</string>
+  <string id="30207">Health</string>
+  <string id="30208">Arts &amp; Society</string>
+  <string id="30209">Lifestyle</string>
+</strings>

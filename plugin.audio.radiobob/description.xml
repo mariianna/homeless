@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addoninfo>
+    <!-- (required) guuid: unique identifier of this addon
+    guuids can be generated online at sites such as http://www.famkruithof.net/uuid/uuidgen -->
+    <guid>f7bb2870-8d7a-11e1-b0c4-0800200c9a66</guid>
+
+    <!-- (required) type:
+    1:  visualization
+    2:  skin
+    3:  pvrdll
+    4:  script
+    5:  scraper
+    6:  screensaver
+    7:  plugin-pvr
+    8:  plugin-video
+    9:  plugin-music
+    10: plugin-program
+    11: plugin-pictures
+    12: plugin-weather -->
+    <type>9</type>
+
+    <!-- (required) Title -->
+    <title>Radiobob WebRadio</title>
+
+    <!-- (required) Major.minor.build -->
+    <version>1.0</version>
+
+    <!-- (required) author name & email.  at least one author name is required -->
+    <authors>
+        <author name="mad-max" email="" />
+    </authors>
+
+    <summary lang="en">Live-Stream from the German Rock Radio "RadioBOB"</summary>
+    <summary lang="de">Live-Stream des Rocksenders "RadioBOB"</summary>
+    <description lang="en">Listen to all kind of rock music, powered by RadioBOB</description>
+    <description lang="de">Genieße alle Arten von Rockmusik, powered by RadioBOB</description>
+
+    <!-- user defined tags e.g. <tags><tag>Example</tag></tags> -->
+    <tags>
+        <tag>Music</tag>
+    </tags>
+
+    <!-- minimum revision of xbmc your addon will run on.  Leave blank all for revisions-->
+    <minrevision></minrevision>
+
+    <!--patforms compatible with your addon.   xbox, osx, windows, linux, or all -->
+    <platforms>
+        <platform>xbox</platform>
+    </platforms>
+
+    <!-- (optional) The License the addon is released under.-->
+    <license>GPLv3</license>
+</addoninfo>

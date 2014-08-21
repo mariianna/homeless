@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+	<strings>
+		<string id="100">Karte bewegen...</string>
+		<string id="101">Karte durchsuchen...</string>
+		<string id="102">Panoramio</string>
+		<string id="103">Flickr</string>
+		<string id="104">locr</string>
+		<string id="105">Youtube</string>
+		<string id="106">Route planen</string>
+		<string id="107">Webcams</string>
+		<string id="109">mehr...</string>
+		<string id="110">Hybrid</string>
+		<string id="111">Satellite</string>
+		<string id="112">Karte</string>
+		<string id="113">Area</string>
+		<string id="120">GoogleMap	</string>
+		<string id="121">VirtualEarth</string>
+		
+
+		<!-- Strings -->
+		<string id="10001">Start-Punkt (z.B. Berlin)</string>
+		<string id="10002">Ziel (z.B. Hamburg Reeperbahn)</string>
+		<string id="10003">nächste %s Treffer</string>
+		<string id="10004">wählen Sie den Startpunkt aus:</string>
+		<string id="10005">wählen Sie das Ziel aus:</string>
+		<string id="10006">Name für Favorite 1</string>
+		<string id="10007">Name für Favorite 2</string>
+		<string id="10008">Name für Favorite 3</string>
+		<string id="10009">Favoriten</string>
+		<string id="10010">Funktionen</string>
+		<string id="10011">Wetter</string>
+		
+		<!-- Update messages -->
+		<string id="1000">Deine Version ist aktuell.</string>
+		<string id="1001">Suche nach Script Updates...</string>
+		<string id="1002">ist neuer</string>
+		<string id="1003">Möchtest du aktualisieren?</string>
+		<string id="1004">Suche Dateiliste...</string>
+		<string id="1005">Bitte warten...</string>
+		<string id="1006">Version</string>
+		<string id="1007">Suche:</string>
+		<string id="1008">Pfad:</string>
+		<string id="1009">Datei:</string>
+		<string id="1010">Script aktualisiert, Neustart folgt...</string>
+
+		<!-- Update error messages -->
+		<string id="1030">Keine neuere Version gefunden!</string>
+		<string id="1031">Es gab einen Fehler beim aktualisieren des Scripts!</string>
+
+</strings>

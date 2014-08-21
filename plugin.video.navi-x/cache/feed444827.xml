@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:yt="http://gdata.youtube.com/schemas/2007" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>Shoutcast TV</title>
+      <description>Live TV Streams from Shoutcast TV</description>
+      <link>http://pipes.yahoo.com/pipes/pipe.info?_id=fc6938a53135a9df6c0b7e4ddbaee218</link>
+      <atom:link rel="next" href="http://pipes.yahoo.com/pipes/pipe.run?_id=fc6938a53135a9df6c0b7e4ddbaee218&amp;_render=rss&amp;page=2"/>
+      <pubDate>Fri, 03 Aug 2012 10:26:57 +0000</pubDate>
+      <generator>http://pipes.yahoo.com/pipes/</generator>
+   </channel>
+</rss>
+<!-- fe3.yql.bf1.yahoo.com uncompressed/chunked Fri Aug  3 10:26:57 UTC 2012 -->

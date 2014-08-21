@@ -1,0 +1,50 @@
+Ver. 0.9.1
+
+Best of NHK - Third release.
+
+Fix: NHK World live stream failure
+
+Known issues: No change from previous version.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ver. 0.9.0
+
+Best of NHK - Second release.
+
+New feature:
+
+NHK pre-recorded daily radio news broadcast in 17 languages.
+
+Known issues: No change from previous version.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ver. 0.8.5
+
+Best of NHK - First release.
+
+Features:
+
+NHK World live stream
+Latest videos
+Videos by name
+Play random video
+
+Known issues:
+
+Some flv flash videos are not decoded by XBMC ffmpeg.
+This problem is not the fault of this plugin.
+The videos will play correctly with an external player.
+You will need to setup playercorefactory.xml configuration
+for your specific needs.
+
+For more details on playercorefactory.xml, please visit
+http://wiki.xbmc.org/index.php?title=External_players
+
+Enjoy!
+
+
+
+
+

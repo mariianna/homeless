@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>    <!--  Finnish 29.6.2009 -->
+    <!-- Settings -->
+    <string id="30000">Näytä ohje</string>
+    <string id="30001">Näytä muutokset</string>
+    <string id="30002">Sivun koko:</string>
+
+    <!-- Errors -->
+    <string id="30900">Virhe!</string>
+    <string id="30901">Tietoja ei löydy!</string>
+    <string id="30902">Sivun käsittely ei onnistu!</string>
+
+    <!-- Plugin -->
+    <string id="30920">Suoritetaan ...</string>
+    <string id="30921">Ladataan ...</string>
+    <string id="30922">Seuraava sivu</string>
+
+    <!-- Category -->
+    <string id="30950">Kuvat</string>
+    <string id="30951">Uusimmat kommentit</string>
+    <string id="30952">Eilisen parhaat</string>
+    <string id="30953">Kuukauden parhaat</string>
+    <string id="30954">Videot</string>
+    <string id="30955">Albumit: Avoimet</string>
+    <string id="30956">Albumit: Kirjasto</string>
+
+    <!-- compatible messages -->
+
+    <string id="30700">versio</string>
+    <string id="30701">Tämä %s:n versio vaatii toimiakseen</string>
+    <string id="30702">XBMC revision %s tai uudemman.</string>
+    <string id="30703">Päivitä XBMC uudempaan versioon.</string>
+
+</strings>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.home.theatre.experience"
+       name="Home Theatre Experience"
+       version="1.5.1c"
+       provider-name="nuka">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+ <provides>executable</provides>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+	<summary>Home Theatre Experience</summary>
+    <description>For the cinema experience at home, watch upcoming trailers and trivia clips before the movie starts.</description>
+	<genre>trailers,movies</genre>
+    <license>GPL</license>
+  </extension>
+</addon>

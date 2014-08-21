@@ -1,0 +1,7 @@
+0.0.4 - bugfix
+
+0.0.3 - more cleanup
+
+0.0.2 - removed unnecessary dependencies
+
+0.0.1 - Initial Release Only covers a small amount of the content available on msnbc.com.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.cinetrailer.tv" name="CineTrailer.tv" version="0.0.4" provider-name="skatulskijean">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	    <platform>xbox</platform>
+        <summary lang="de">CineTrailer.tv</summary>
+        <summary lang="en">Cinetrailer.tv</summary>
+        <description lang="de">Trailer von CineTrailer.tv</description>
+        <description lang="en">Trailer content from CineTrailer.tv</description>
+  </extension>
+</addon>

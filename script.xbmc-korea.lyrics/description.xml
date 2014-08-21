@@ -1,0 +1,54 @@
+    <!-- (required) guuid: unique identifier of this addon
+    guuids can be generated online at sites such as http://www.famkruithof.net/uuid/uuidgen -->
+    <guid>28489470-8d79-11e1-b0c4-0800200c9a66</guid>
+
+    <!-- (required) type:
+    1:  visualization
+    2:  skin
+    3:  pvrdll
+    4:  script
+    5:  scraper
+    6:  screensaver
+    7:  plugin-pvr
+    8:  plugin-video
+    9:  plugin-music
+    10: plugin-program
+    11: plugin-pictures
+    12: plugin-weather -->
+    <type>4</type>
+
+    <!-- (required) Title -->
+    <title>Korean Lyrics</title>
+
+    <!-- (required) Major.minor.build -->
+    <version>1.3.0</version>
+
+    <!-- (required) author name & email.  at least one author name is required -->
+    <authors>
+        <author name="nuka" email="" />
+    </authors>
+    <summary lang="en">Lyrics from Korean sites</summary>
+    <summary lang="ko">한국 음악 가사</summary>
+    <description lang="en">Download a Lyrics from Alsong / GomAudio</description>
+    <description lang="ko">알송/곰오디오에서 노래 가사를 받아 음악 재생시 보여줍니다. 스킨 설정에서 가사 스크립트를 지정한후, 노래 재생시 메뉴에서 가사 표시를 선택하면 됩니다.</description>
+ 
+    <!-- user defined tags e.g. <tags><tag>Example</tag></tags> -->
+    <tags>
+        <tag>Music</tag>
+    </tags>
+
+    <!-- minimum revision of xbmc your addon will run on.  Leave blank all revisions-->
+    <minrevision></minrevision>
+
+    <!--patforms compatible with your addon.   xbox, osx, windows, linux, or all -->
+    <platforms>
+        <platform>all</platform>
+    </platforms>
+
+    <!-- (optional) Whatever is put in disclaimer will be shown before download in an ok/cancel dialog.
+    Keep it short and to the point. -->
+    <disclaimer></disclaimer>
+
+    <!-- (optional) The License the addon is released under.-->
+    <license>GPL</license>
+</addoninfo>

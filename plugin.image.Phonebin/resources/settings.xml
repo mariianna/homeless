@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="pagesize" type="labelenum" values="20|60|100|1000|10000" label="30002" default="60" />
+    <setting type="sep" />
+    <setting type="action" label="30000" option="close" default="RunPlugin(plugin://Pictures/Phonebin/?info=readme.txt)" />
+    <setting type="action" label="30001" option="close" default="RunPlugin(plugin://Pictures/Phonebin/?info=changelog.txt)" />
+</settings>

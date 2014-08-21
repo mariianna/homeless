@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting label="201" type="enum" id="scraper" default="2" values="lyrdb.com|ttplayer.com|alsong.co.kr|gomtv.com" />
+    <setting type="sep" />
+    <setting label="202" type="bool" id="save_lyrics" default="false" />
+    <setting label="203" type="folder" id="lyrics_path" default="" source="auto" option="writeable" enable="eq(-1,true)" />
+    <setting label="210" type="bool" id="compatible" default="false" enable="eq(-2,true)" />
+    <setting label="211" type="bool" id="use_extension" default="false" enable="eq(-3,true)" />
+    <setting type="sep" />
+    <setting label="204" type="bool" id="smooth_scrolling" default="true" />
+    <setting label="205" type="bool" id="show_viz" default="true" />
+    <setting type="sep" />
+    <setting label="206" type="bool" id="use_filename" default="false" />
+    <setting label="207" type="enum" id="filename_format" default="0" lvalues="2070|2071|2072" />
+    <setting type="sep" />
+    <setting label="208" type="folder" id="music_path" default="" source="music" />
+    <setting label="209" type="bool" id="shuffle" default="false" enable="!eq(-1,)" />
+</settings>

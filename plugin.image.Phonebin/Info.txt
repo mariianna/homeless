@@ -1,0 +1,9 @@
+Repository: http://xbmc-addons.googlecode.com/svn/trunk
+
+
+Author:
+BigBellyBilly (bigbellybilly@gmail.com)
+
+
+Official info:
+Plugin for viewing Phonebin.com content.

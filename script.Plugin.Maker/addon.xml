@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.Plugin.Maker"
+       name="Plugin Maker"
+       version="1.2"
+       provider-name="Nuka1195">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Will make a plugin which links to one of your media libraries.</summary>
+    <description lang="en">Will make a plugin which links to one of your media libraries.</description>
+    <platform>all</platform>
+	<genre>other</genre>
+  </extension>
+</addon>

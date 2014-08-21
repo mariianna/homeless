@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="0">XBMC가사</string>
+    <string id="1">xbmc미디어센터</string>
+    <string id="2">Nuka1195</string>
+
+    <!-- User Messages -->
+    <string id="100">제외</string>
+    <string id="101">파일</string>
+    <string id="102">내장</string>
+
+    <!-- Settings labels -->
+    <string id="201">스크래퍼</string>
+    <string id="202">가사저장</string>
+    <string id="203">저장폴더</string>
+    <string id="204">부드러운 가사스크롤</string>
+    <string id="205">효과창 보기</string>
+    <string id="206">검색에 파일명만 사용</string>
+    <string id="207">파일이름 형식</string>
+    <string id="208">재생목록 폴더</string>
+    <string id="209">재생목록 섞기</string>
+    <string id="210">xbox호환 가사 저장</string>
+    <string id="211">아티스트 폴더에 가사 저장</string>
+
+    <!-- Settings choices -->
+    <string id="2070">%A - %T</string>
+    <string id="2071">%A\%B\%T</string>
+    <string id="2072">%A\%B\%N %T</string>
+
+    <!-- Settings error messages -->
+    <string id="230">설정저장 에러！</string>
+
+    <!-- Settings restart required message -->
+    <string id="240">스크래퍼 설정은 재시작까지 적용되지 않습니다.</string>
+    <string id="241">지금 %s 를 재시작할까요?</string>
+
+    <!-- Settings buttons -->
+    <string id="250">결정</string>
+    <string id="251">취소</string>
+    <string id="252">업데이트</string>
+    <string id="253">크레딧</string>
+    <string id="254">음악재생</string>
+    <string id="255">기본설정</string>
+
+    <string id="270">재시작</string>
+    <string id="271">나중에</string>
+    
+    <!-- Special XBMC strings -->
+    <string id="589">파티모드</string>
+    
+    <!-- Error messages -->
+    <string id="630">비정상적 레이아웃, 해석이 안됨!</string>
+    <string id="631">아티스트 검색실패!</string>
+    <string id="632">가사 검색실패!</string>
+    <string id="633">빈페이지!</string>
+    <string id="638">뭐할려는 거지?</string>
+    <string id="639">음악재생중이 아님!</string>
+
+    <!-- Credits -->
+    <string id="900">버전</string>
+    <string id="901">팀 크레딧:</string>
+    <string id="902">추가 크레딧:</string>
+    <string id="903">스킨 크레딧:</string>
+
+    <!-- Credits headings-->
+    <string id="910">개발리더 &amp; 코딩</string>
+    <string id="911">원저자</string>
+    <string id="912">원스킨모드</string>
+    <string id="913">유니코드 지원</string>
+    <string id="914">언어파일</string>
+
+    <!-- Update messages -->
+    <string id="1000">최신버전입니다.</string>
+    <string id="1001">최신태그버전 전송중...</string>
+    <string id="1002">업데이트</string>
+    <string id="1003">업데이트 하시겠습니까?</string>
+    <string id="1004">파일목록 전송중...</string>
+    <string id="1005">잠시만 기다리세요...</string>
+    <string id="1006">버전</string>
+    <string id="1007">전송:</string>
+    <string id="1008">경로:</string>
+    <string id="1009">파일:</string>
+    <string id="1010">최신버전이 저장됨:</string>
+
+    <!-- Update error messages -->
+    <string id="1030">태그버전을 찾을 수 없습니다!</string>
+    <string id="1031">스크립트 업데이트 중 에러발생!</string>
+</strings>

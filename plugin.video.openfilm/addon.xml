@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.openfilm"
+       name="OpenFilm"
+       version="1.0.1"
+       provider-name="queeup">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>OpenFilm.com video add-on</summary>
+    <description>Openfilm brings the best elements of the film industry together. With an innovative platform designed to change the process of discovering great independent film, Openfilm is dedicated to developing, marketing and distributing great works.</description>
+    <platform>all</platform>
+	<license>WTFPL</license>
+	<genre>tv,movies</genre>
+  </extension>
+</addon>

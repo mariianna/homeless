@@ -1,0 +1,4 @@
+- Find out search option pagination or add n=100(?)
+- add next icon
+- add cache for url
+- find out how to make "More episode" context menu.(Check xbmc direcory False or True)

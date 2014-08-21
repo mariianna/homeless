@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+
+    <!-- Buttons -->
+    <string id="100">Move Map...</string>
+    <string id="101">Search Map...</string>
+	<string id="102">Panoramio</string>
+	<string id="103">Flickr</string>
+	<string id="104">locr</string>
+	<string id="105">Youtube</string>
+	<string id="106">Route</string>
+	<string id="107">Webcams</string>
+	<string id="109">more...</string>
+	<string id="110">Hybrid</string>
+	<string id="111">Satelite</string>
+	<string id="112">Map</string>
+	<string id="113">Area</string>
+	<string id="120">GoogleMap	</string>
+	<string id="121">VirtualEarth</string>
+	
+	<!-- More -->
+	<string id="200">Favoriten 1</string>
+    <string id="201">Favoriten 2</string>
+	<string id="202">Favoriten 3</string>
+	<string id="203">Earthtools</string>
+	<string id="104">locr</string>
+	<string id="105">Youtube</string>
+	<string id="106">Route</string>
+	<string id="109">more...</string>
+	<string id="110">Hybrid</string>
+	<string id="111">Satelite</string>
+	<string id="112">Map</string>
+	<string id="113">Area</string>
+	
+	
+	
+	<!-- Strings -->
+	<string id="10001">Start-Point (e.g. New York)</string>
+	<string id="10002">End-Point (e.g. Miami)</string>
+    <string id="10003">next %s Hits</string>
+	<string id="10004">choose the starting Point:</string>
+	<string id="10005">choose the End Point:</string>
+	<string id="10006">Name for Favorite 1</string>
+	<string id="10007">Name for Favorite 2</string>
+    <string id="10008">Name for Favorite 3</string>
+	<string id="10009">Favorites</string>
+	<string id="10010">Functions</string>
+	<string id="10011">Weather</string>
+	
+	
+	
+	<!-- Update messages -->
+    <string id="1000">Your version is up to date.</string>
+    <string id="1001">Fetching current tagged versions...</string>
+    <string id="1002">is newer</string>
+    <string id="1003">Would you like to update?</string>
+    <string id="1004">Fetching file list...</string>
+    <string id="1005">Please wait...</string>
+    <string id="1006">Version</string>
+    <string id="1007">Fetching:</string>
+    <string id="1008">Path:</string>
+    <string id="1009">File:</string>
+    <string id="1010">Script updated, will now restart.</string>
+
+
+    <!-- Update error messages -->
+    <string id="1030">No tagged versions were found!</string>
+    <string id="1031">There was an error updating script!</string>
+</strings>

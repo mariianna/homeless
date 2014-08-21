@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+  <!-- Title -->
+  <string id="30000">NewsLook</string>
+
+  <!-- Directory -->
+  <string id="30201">Son Haberler</string>
+  <string id="30202">Dünya</string>
+  <string id="30203">ABD</string>
+  <string id="30204">Finans</string>
+  <string id="30205">Bilim</string>
+  <string id="30206">Teknoloji</string>
+  <string id="30207">Sağlık</string>
+  <string id="30208">Sanat ve Toplum</string>
+  <string id="30209">Yaşam Tarzı</string>
+</strings>

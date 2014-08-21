@@ -1,0 +1,5 @@
+<settings>
+  <category label="General">
+    <setting id="has_updated_librtmp" type="bool" label="Updated libRTMP present" default="false" />
+  </category>
+ </settings>

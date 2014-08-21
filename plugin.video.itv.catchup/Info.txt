@@ -1,0 +1,12 @@
+For this plugin to work you must do the following:
+
+1) Go into plugin settings and click on OK to exit (even if you haven't changed any settings - this will create the correct folder structure for you later on).
+2) Run plugin and you should get a script error
+3) Using Filemanager navigate to Q:\UserData\Plugin_Data\Video\ITV Catchup\
+4) Create folder "Subtitles"
+5) Create folder "Images"
+
+It should now work, good luck!
+whufclee
+
+If anyone would like to look at the code and make a fix I'm sure it must be pretty simple if you know what you're doing - unfortunately I don't!  If you do find a fix and would like to share please email me at englishnproud@gmail.com

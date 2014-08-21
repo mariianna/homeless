@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.whufclee"
+	name="totalXBMC Guides" version="1.0.5" provider-name="whufclee">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">totalXBMC Guides</summary>
+    <description lang="en">Here you will find all your XBMC related video guides. Please note this is a collection of self-help XBMC guides provided by various members of the community so a big thank you goes out to everyone involved. TotalXBMC.tv take no responsibility for the content of these videos, they are all freely available via youtube - we've simply asked the uploaders permission to add them to our playlist so you have everything XBMC related in one easy to find place.</description>
+    <platform>all</platform>
+  </extension>
+</addon>

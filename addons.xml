@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="script.navi-x"
+       name="Navi-X"
+       version="3.7.8.1"
+       provider-name="Navi-X team">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>28764</minversion>
+    <summary lang="en">Media browser</summary>
+    <description lang="en">Media browser</description>
+  </extension>
+</addon>
+
+<addon id="plugin.audio.google.listen" version="1.0.5" name="Google Listen" provider-name="queeup">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary>Google Listen audio add-on</summary>
+    <description>Listen is a research Android app providing a personalized audio news-magazine loaded with fresh and interesting content whenever it is turned on. Start with directed search and streaming and then sit back or multi-task and Listen to content matching your favorite programs and queries like "ABC Nightline," "Bernanke," and "Fantasy Baseball." Currently we are indexing audio files from thousands of English-only RSS feeds but we plan to index all web audio, talking head videos, and short personalized text-to-speech segments in the future.</description>
+        <platform>all</platform>
+    <genre>music</genre>
+    <license>WTFPL</license>
+	</extension>
+</addon>
+
+<addon id="plugin.audio.plexmusic" name="PlexMusic" version="0.0.1" provider-name="skatulskijean">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <language />
+        <platform>all</platform>
+        <website></website>
+        <source></source>
+        <forum></forum>
+        <email></email>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <summary lang="en">Access your Plexmediaserver (music artsist,albums,tracks)</summary>
+        <description lang="en">Access the Music Libary from your Plexmediaserver (Artsits,Albums,Songs with Fanart and Covers) you can search for Artists,Albums and Tracks</description>
+    </extension>
+</addon>
+
+<addon id="plugin.audio.radiobob" version="0.1" name="Radiobob WebRadio" provider-name="mad-max">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">Live-Stream from the German Rock Radio "RadioBOB"</summary>
+    <summary lang="de">Live-Stream des Rocksenders "RadioBOB"</summary>
+    <description lang="en">Listen to all kind of rock music, powered by RadioBOB</description>
+    <description lang="de">Genieße alle Arten von Rockmusik, powered by RadioBOB</description>
+        <platform>all</platform>
+    <genre>music,radio</genre>
+    <license>GPLv3</license>
+	</extension>
+</addon>
+
+<addon id="plugin.audio.shoutcast.original" version="1.2.0" name="XBMC Shoutcast" provider-name="Team XBMC">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">Shoutcast</summary>
+    <summary lang="hu">Shoutcast rádiók</summary>
+    <summary lang="pt">Rádio Shoutcast</summary>
+    <description lang="en">SHOUTcast Radio offers thousands of free Internet radio stations from DJs and broadcasters around the world</description>
+    <description lang="hu">A SHOUTcast több ezer ingyenes internetes rádiót kínál DJ-k és rádióállomások jóvoltából.</description>
+    <description lang="pt">A rádio SHOUTcast oferece milhares de rádios livres existentes na Internet, mantidas por DJs de todo o mundo.</description>
+        <platform>all</platform>
+    <genre>music,radio</genre>
+    <license>GPLv3</license>
+	</extension>
+</addon>
+
+<addon id="plugin.image.flickr.original"
+       name="Flickr (Old Original)"
+       version="1.5.4"
+       provider-name="nuka">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+   </requires>
+
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>image</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">flickrXBMC: flickr on XBMC</summary>
+	<summary lang="de">flickrXBMC: flickr in XBMC</summary>
+	<summary lang="es">flickrXBMC: flickr en XBMC</summary>
+	<summary lang="nl">flickrXBMC: Flickr op XBMC</summary>
+    <description>View photos from the Flickr website.</description>
+	<platform>all</platform>
+	<license>GPL</license>
+	<genre>photos</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.image.Flickr2"
+       name="Flickr2"
+       version="1.2"
+       provider-name="Dan Dar3">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+   </requires>
+
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>image</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">flickrXBMC: flickr on XBMC</summary>
+	<summary lang="de">flickrXBMC: flickr in XBMC</summary>
+	<summary lang="es">flickrXBMC: flickr en XBMC</summary>
+	<summary lang="nl">flickrXBMC: Flickr op XBMC</summary>
+    <description>View photos from the Flickr website.</description>
+	<platform>all</platform>
+	<license>GPL</license>
+	<genre>photos</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.image.Phonebin"
+       name="Phonebin"
+       version="1.0"
+       provider-name="BigBellyBilly">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>image</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Plugin for viewing Phonebin.com content.</summary>
+    <description>Plugin for viewing Phonebin.com content.</description>
+	<platform>all</platform>
+	<genre>adult</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.image.Picasa.original"
+       name="Picasa"
+       version="1.4.0b"
+       provider-name="nuka">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+   </requires>
+
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>image</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <description>View photos from the Picasa website.</description>
+	<platform>all</platform>
+	<license>GPL</license>
+	<genre>photos</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.program.notepad"
+       name="Notepad"
+       version="1.4.0"
+       provider-name="TestTeam">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>program</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>28764</minversion>
+    <summary lang="en">Noptepad</summary>
+    <description lang="en">Notepad</description>
+  </extension>
+  <statfeed>
+    <working>yes</working>
+	<notes>This is a text reader</notes>
+	<maintainer>DanDar3</maintainer>
+	<genre>other</other>
+  </statfeed>
+</addon>
+
+<addon id="plugin.rtmpGUInoEPG"
+       name="rtmpGUInoEPG"
+       version="1.1.0"
+       provider-name="BlueCop, HansMayer, Skatulskijean">
+  <requires>
+  <import addon="xbmc.python" version="2.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+  <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>rtmpGUI+</summary>
+    <description>LIVE TV!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.bestofnhk" name="Best of NHK" version="0.9.1" provider-name="misty">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+	    <import addon="script.module.t0mm0.common" version="2.1.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	    <platform>all</platform>
+  	    <language></language>
+        <summary>bestofnhk.tv</summary>
+        <description>Weird, fun, interesting documentaries from NHK World Japan. New shows daily.</description>
+  </extension>
+</addon>
+
+<addon id="plugin.video.bestofnhk" name="Best of NHK" version="0.9.1" provider-name="misty">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+	    <import addon="script.module.t0mm0.common" version="2.1.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	    <platform>all</platform>
+  	    <language></language>
+        <summary>bestofnhk.tv</summary>
+        <description>Weird, fun, interesting documentaries from NHK World Japan. New shows daily.</description>
+  </extension>
+</addon>
+
+<addon id="plugin.video.itv.catchup"
+       name="ITV Catchup"
+       version="1.0.7"
+       provider-name="dlake02">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>ITV Player</summary>
+    <description>Catchup with shows from UK network ITV.  NOTE: This geo-locked to UK ONLY.</description>
+	<genre>tv,uk</genre>
+    <license>GPL</license>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.Microsoft.PDC"
+  version="1.0.0"
+  name="Microsoft PDC"
+  provider-name="Dan Dar3">
+  <requires>
+    <import addon="xbmc.python"
+            version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch videos from MicrosoftPDC.com</summary>
+    <platform>all</platform>
+	<genre>tech</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mikewallace"
+       name="The Mike Wallace Interview"
+       version="0.0.1"
+       provider-name="unknown">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch the Mike Wallace Interviews</summary>
+    <platform>all</platform>
+	<license>WTFPL</license>
+	<genre>tv</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.msnbc"
+       name="MSNBC"
+       version="0.0.4"
+       provider-name="andre">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+	<import addon="script.module.simplejson"/>
+	<import addon="script.module.elementtree"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Stream videos from news channel MSNBC</summary>
+    <platform>all</platform>
+	<license>GPL</license>
+	<genre>news</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.navi-x" name="Navi-X"
+	version="0.4.0" provider-name="cbb">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Media browser</summary>
+		<description lang="en">Media browser</description>
+	</extension>
+</addon>
+
+<addon id="plugin.video.NBA.com.Videos"
+       name="NBA.com Videos"
+       version="1.0.6"
+       provider-name="stacked">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch sports clips from NBA.com</summary>
+    <description>Watch sports clips from NBA.com.  IMPORTANT INFO: You must enable "Use DVD Player" in plugin settings or streams will fail to play.</description>
+    <platform>all</platform>
+	<genre>sports</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.NewsLook"
+       name="NewsLook"
+       version="1.0.0"
+       provider-name="queeup">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+	<import addon="script.module.simplejson"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch news clips from NewsLook</summary>
+    <description>NewsLook - bringing you the best video news.</description>
+    <platform>all</platform>
+	<license>WTFPL</license>
+	<genre>news</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.onion.news"
+       name="Onion News"
+       version="0.1.0"
+       provider-name="schneidz">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Watch clips from The Onion News Network</summary>
+    <description>This add-on scrapes the last 20 videos posted to the onion's rss feed.</description>
+	<genre>news,comedy</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.openfilm"
+       name="OpenFilm"
+       version="1.0.1"
+       provider-name="queeup">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>OpenFilm.com video add-on</summary>
+    <description>Openfilm brings the best elements of the film industry together. With an innovative platform designed to change the process of discovering great independent film, Openfilm is dedicated to developing, marketing and distributing great works.</description>
+    <platform>all</platform>
+	<license>WTFPL</license>
+	<genre>tv,movies</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.pelisalacarta"
+    name="pelisalacarta"
+    version="3.2.69"
+    provider-name="tvalacarta">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Películas y series a la carta</summary>
+    <description lang="es">Películas, series, documentales, anime, ... todo lo que puedas encontrar en Internet ahora desde tu media center. Incluye canales en Español, Italiano, Portugués y Francés.</description>
+    <summary lang="en">Movies and TV Shows on demand (Spanish)</summary>
+    <description lang="en">Spanish plugin for watching Movies and TV Shows on demand. It uses more than 70 different source sites that provide streamed media contents</description>
+    <platform>all</platform>
+  </extension>
+  <extension point="xbmc.service" library="library_service.py" start="login|startup">
+  </extension>
+</addon>
+
+<addon id="plugin.video.reality"
+       name="Reality Lapse"
+       version="1.0"
+       provider-name="Voinage">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Anime video plugin</summary>
+    <description>Reality Lapse provides anime from a huge back catalogue.</description>
+	<genre>anime</anime>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.revision3light"
+  version="1.0.1"
+  name="Revision 3 Light"
+  provider-name="skatulskijean">
+  <requires>
+   <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+   <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Revision 3 Light</summary>
+    <description></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sciencenetwork"
+       name="The Science Network"
+       version="1.0"
+       provider-name="sloppymcnubble">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Videos from The Science Network</summary>
+    <description lang="en">Videos from The Science Network</description>
+	<genre>howto</genre>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.starwars"
+  version="1.0.0"
+  name="Star Wars"
+  provider-name="mtubesing,xboxFork-skatulskijean">
+  <requires>
+    <import addon="xbmc.python"
+            version="1.0"/>
+    <import addon="script.module.simplejson"
+            version="2.0.10"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>StarWars.com Video add-on</summary>
+    <description>Watch clips and episodes from the StarWars.com website</description>
+    <platform>all</platform>
+	<genre>movies</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.theguild"
+       name="The Guild"
+       version="1.0.5"
+       provider-name="queeup">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The Guild video plugin</summary>
+    <summary lang="tr">The Guild video plugin</summary>
+    <description>The Guild is a web series about a group of online gamers.</description>
+    <description lang="tr">The Guild is a web series about a group of online gamers.</description>
+    <disclaimer>I do not host any of the online video, audio, and photo files that some of the add-ons link to stored on third-party websites, nor do they upload such files themselves. They are not responsible for what other people upload to any third-party sites. Therefore we urge all copyright owners, to recognize that the links contained within these add-ons are located somewhere else on the web. The scraped embedded links point to the location of each video on the web. Please direct all copyright infringement issues to the companies that host these files :- Google, Dailymotion, Veoh, and so forth.</disclaimer>
+    <disclaimer lang="tr">I do not host any of the online video, audio, and photo files that some of the add-ons link to stored on third-party websites, nor do they upload such files themselves. They are not responsible for what other people upload to any third-party sites. Therefore we urge all copyright owners, to recognize that the links contained within these add-ons are located somewhere else on the web. The scraped embedded links point to the location of each video on the web. Please direct all copyright infringement issues to the companies that host these files :- Google, Dailymotion, Veoh, and so forth.</disclaimer>
+    <platform>all</platform>
+	<license>WTFPL</license>
+	<genre>tv,gaming</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.UBU"
+       name="UBU"
+       version="0.0.1"
+       provider-name="unknown">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch content from UBU</summary>
+    <description>View Avant Garde content from the UBU website</description>
+    <platform>all</platform>
+	<license>WTFPL</license>
+	<genre>tv,french</genre>
+  </extension>
+</addon>
+
+<addon id="plugin.video.vimeosearch"
+       name="VimeoSearchXBMC4XBOX"
+       version="0.0.1"
+       provider-name="Skatulskijean">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>skatulskijean</summary>
+    <description>Search on Vimeo</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.whufclee"
+	name="totalXBMC Guides" version="1.0.5" provider-name="whufclee">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">totalXBMC Guides</summary>
+    <description lang="en">Here you will find all your XBMC related video guides. Please note this is a collection of self-help XBMC guides provided by various members of the community so a big thank you goes out to everyone involved. TotalXBMC.tv take no responsibility for the content of these videos, they are all freely available via youtube - we've simply asked the uploaders permission to add them to our playlist so you have everything XBMC related in one easy to find place.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.xbmcearth"
+  version="0.50"
+  name="XBMC Earth"
+  provider-name="MrLight">
+  <requires>
+   <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension
+    point="xbmc.python.pluginsource"
+    library="default.py">
+   <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>XBMC Earth</summary>
+    <description></description>
+    <platform>all</platform>
+  </extension>
+  <statfeed>
+    <working>yes</working>
+	<notes>none</notes>
+	<maintainer>MrLight</maintainer>
+    </statfeed>
+</addon>
+
+<addon id="plugin.video.youtubesearch"
+       name="YoutubeSearch"
+       version="0.0.2"
+       provider-name="Skatulskijean">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>skatulskijean</summary>
+    <description>Search on Youtube</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.homeless.addons" name="Homeless Add-ons Repository" version="1.0.0" provider-name="totalxbmc">
+	<extension point="xbmc.addon.repository" name="bluecop Add-on Repository">
+		<info compressed="false">https://raw.githubusercontent.com/totalxbmc/homeless/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/totalxbmc/homeless/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/totalxbmc/homeless/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-on that home no home repository</summary>
+		<description>Vagrant Addons</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.bbcfootballscores"
+       name="BBC Football Scores"
+       version="0.1"
+       provider-name="el_Paraguayo">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.simplejson" version="2.0.10"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+ <provides>executable</provides>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">BBC Football Scores</summary>
+    <description lang="en">Basic scraper to display live scores and goalflashes.</description>
+	<genre>sports</genre>
+  </extension>
+</addon>
+
+<addon id="script.game.2048" name="2048" version="0.0.2" provider-name="Tristan Fischer (sphere@dersphere.de)">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="game.py"/>
+    <extension point="xbmc.addon.metadata">
+        <language/>
+        <platform>all</platform>
+        <website></website>
+        <source></source>
+        <forum></forum>
+        <email>sphere@dersphere.de</email>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <summary lang="en">Game 2048</summary>
+        <description lang="en">2048</description>
+    </extension>
+</addon>
+
+<!--$Revision: 916 $-->
+<addon id="script.game.hangman" name="HangMan"
+       version="1.0.6" date="16.12.2010"
+       provider-name="Frost (passion-xbmc.org)">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <nofanart>true</nofanart>
+    <nochangelog>true</nochangelog>
+    <summary>Jeu du bonhomme pendu pour XBMC</summary>
+    <description>Le pendu est un jeu consistant à trouver un mot en devinant quelles sont les lettres qui le composent. Le jeu se joue traditionnellement à deux, avec un papier et un crayon, selon un déroulement bien particulier.</description>
+	<genre>gaming</genre>
+  </extension>
+</addon>
+
+<!--$Revision: 871 $-->
+<addon id="script.game.space.invaders" name="Space Invaders"
+       version="1.0.0" date="11.10.2010"
+       provider-name="Donno (darkdonno@gmail.com)">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Space Invaders Game for XBMC</summary>
+    <description>All credits and special thanks to Donno.
+About:
+  Project Started around April/May 2006.
+  An attempt to show the true power in combining XBMC with Python.
+  So I decide to choose to make  Space Invaders Remake
+  I will not release the script till I think its full ready for public use.
+  Check the web page for a few avi (which are WIP showing the progress)
+
+Feature List:
+  Themes - Incomplete (Coded but not Made, code needs improving)
+  Background Music - Optional 'Overwrite music' with Custom Playlist.pls in Music folder
+  Highscore Loading from Internet/Local
+  Standard Objects: Red Bonus Saucer, Shields, Invaders
+  Collision Dectection between Friendly and Emeny bullet
+  Every 1000 score will give you an extra life
+  Added Check for Theme Media
+  Invader fire at you and the shields
+  Settings - Options
+  Special Effect Sounds
+  Pause
+  AutoPause when you go to Full Screen Video/Viz
+  GameOver Screens  ('Splash' Full Screen picture)  - Out Of Lifes and Invaders have landed
+</description>
+    <disclaimer>Remember, High-scores on-line not working....</disclaimer>
+	<genre>gaming</genre>
+  </extension>
+</addon>
+
+<!--$Revision: 871 $-->
+<addon id="script.game.tetris" name="Tetris"
+       version="1.0.2" date="11.10.2010"
+       provider-name="Asteron (asteron.projects.googlepages.com)">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Tetris Game for XBMC</summary>
+    <disclaimer>Remember, High-scores on-line not working....</disclaimer>
+    <description>All credits and special thanks to Asteron.
+Intro:
+  Tetris: The timeless classic finally reaches the XBMC platform!
+  If you aren't familiar with this game by now then there's no hope for you.
+  Clear lines to get points.  Advance through the levels for large bonuses.
+  Take a chance and go for the 4-line clears to get the best score!
+
+  Are you up to the challenge?
+
+You can find the latest version of this script at:
+  http://code.google.com/p/xbmc-scripting/
+  http://asteron.projects.googlepages.com/
+
+Features:
+  Online and Local Highscores - submit your best scores to the online database run by Rockstarr
+  Ghost Piece - turn on this advanced option from the pause menu to see where a piece will fall
+  Saved settings - you will only need to enter your name once but can change it later
+  Custom sounds and graphics !
+
+Controls:
+  Left     - move piece left
+  Right    - move piece right
+  X        - rotate piece counter clockwise
+  B / Q    - rotate piece clockwise (Q = Queue Item)
+  Up       - 'near' drop : drops the piece to just above the ground
+  A / Down - 'hard' drop : drops the piece to the ground and locks it
+  RTrigger - increases gravity
+  Start    - Pause screen
+
+Scoring:
+  1-line clear -  1 point  times current level
+  2-line clear -  4 points times current level
+  3-line clear -  9 points times current level
+  4-line clear - 16 points times current level
+  Level Up     - 15 points times new level
+
+Speed:
+  Each level speed increases by 40% up to a maximum speed around level 8.
+  Surviving becomes very difficult and you should try to get as many points
+  as you can before losing control.
+
+High-score Strategy:
+  Going for nothing but 4-line clears will give you the most points in any
+given level.  However, this tends to lead to high towers and is inherently
+risky.  Leveling up is   easier with smaller clears and will get you more
+quickly to the higher scoring levels.  You must find a good balance between
+high-scoring multi-line clears and the smaller, safer clears.
+</description>
+<genre>gaming</genre>
+  </extension>
+</addon>
+
+<addon id="script.home.theatre.experience"
+       name="Home Theatre Experience"
+       version="1.5.1c"
+       provider-name="nuka">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+ <provides>executable</provides>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+	<summary>Home Theatre Experience</summary>
+    <description>For the cinema experience at home, watch upcoming trailers and trivia clips before the movie starts.</description>
+	<genre>trailers,movies</genre>
+    <license>GPL</license>
+  </extension>
+</addon>
+
+<addon id="script.My.Program.Plugins"
+       name="My Program Plugins"
+       version="1.0"
+       provider-name="Frost">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">A shortcut to take you from scripts to program plugins.</summary>
+    <description lang="en">A shortcut to take you from scripts to program plugins.</description>
+    <platform>all</platform>
+	<genre>other</genre>
+  </extension>
+</addon>
+
+<addon id="script.opensubtitles.OSD"
+       name="Open Subtitles OSD"
+       version="1.52"
+       provider-name="Amet">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+ <provides>executable</provides>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Search and Download subtitles via OSD</summary>
+	<genre>subtitles,movies</genre>
+    <license>GPL</license>
+  </extension>
+</addon>
+
+<addon id="script.Persistence"
+       name="Persistence"
+       version="0.1"
+       provider-name="unknown">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Persisence</summary>
+    <description>The script contained in this file is designed to provide a background server that holds persistent objects in memory and makes them available (via socket connections)to other client scripts and plugins. Please note that Persistence is an advanced developer's tool because it is useless as a standalone script, and any plugins or scripts that connect to it must be configured properly to act as clients.</description>
+    <platform>all</platform>
+	<genre>other</genre>
+  </extension>
+</addon>
+
+<addon id="script.Plugin.Maker"
+       name="Plugin Maker"
+       version="1.2"
+       provider-name="Nuka1195">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Will make a plugin which links to one of your media libraries.</summary>
+    <description lang="en">Will make a plugin which links to one of your media libraries.</description>
+    <platform>all</platform>
+	<genre>other</genre>
+  </extension>
+</addon>
+
+<addon id="script.xbmc-korea.lyrics" name="Korean Lyrics" version="1.3.0" provider-name="nuka1195">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+        <import addon="script.module.xbmcaddon" version="1.0.4"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+    <summary lang="en">Lyrics from Korean sites</summary>
+    <summary lang="ko">한국 음악 가사</summary>
+    <description lang="en">Download a Lyrics from Alsong / GomAudio</description>
+    <description lang="ko">알송/곰오디오에서 노래 가사를 받아 음악 재생시 보여줍니다. 스킨 설정에서 가사 스크립트를 지정한후, 노래 재생시 메뉴에서 가사 표시를 선택하면 됩니다.</description>
+    <license>GPL</license>
+    </extension>
+</addon>
+
+<addon id="script.XBMCCLC"
+       name="XBMC Command-Line Client"
+       version="0.1"
+       provider-name="unknown">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary>XBMC Command-Line Client</summary>
+    <platform>xbox</platform>
+	<genre>tech</genre>
+  </extension>
+</addon>
+</addons>

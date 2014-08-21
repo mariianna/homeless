@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="plugin.video.revision3light"
+  version="1.0.1"
+  name="Revision 3 Light"
+  provider-name="skatulskijean">
+  <requires>
+   <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+   <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Revision 3 Light</summary>
+    <description></description>
+    <platform>all</platform>
+  </extension>
+</addon>

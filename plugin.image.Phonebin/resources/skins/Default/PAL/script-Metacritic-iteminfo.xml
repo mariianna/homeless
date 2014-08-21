@@ -1,0 +1,308 @@
+<window>
+	<defaultcontrol>11</defaultcontrol>
+	<include>dialogeffect</include>
+	<coordinates>
+		<system>1</system>
+		<posx>50</posx>
+		<posy>25</posy>
+	</coordinates>
+	<controls>
+		<control type="image">
+			<posx>-50</posx>
+			<posy>-25</posy>
+			<width>720</width>
+			<height>576</height>
+			<texture>black.png</texture>
+			<animation effect="fade" time="2000">WindowOpen</animation>
+		</control>
+		<control type="image">
+			<description>background image</description>
+			<posx>0</posx>
+			<posy>0</posy>
+			<width>635</width>
+			<height>535</height>
+			<texture border="20,10,10,30">dialog-panel.png</texture>
+		</control>
+		<control type="label" id="4">
+			<description>Item Title value</description>
+			<posx>20</posx>
+			<posy>5</posy>
+			<width>600</width>
+			<height>30</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<textcolor>DDced8da</textcolor>
+			<label></label>
+			<font>special13</font>
+		</control>
+		<control type="image">
+			<posx>40</posx>
+			<posy>35</posy>
+			<width>550</width>
+			<height>2</height>
+			<texture>separator.png</texture>
+		</control>
+
+		<control type="label" id="5">
+			<description>Score</description>
+			<posx>555</posx>
+			<posy>5</posy>
+			<width>100</width>
+			<height>30</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<label>SCORE</label>
+			<font>special12</font>
+		</control>
+
+		<control type="label" id="6">
+			<description>Date</description>
+			<posx>20</posx>
+			<posy>5</posy>
+			<width>80</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<textcolor>DDced8da</textcolor>
+			<label></label>
+			<font>special12</font>
+		</control>
+
+		<control type="label" id="7">
+			<description>Info</description>
+			<posx>130</posx>
+			<posy>45</posy>
+			<width>495</width>
+			<height>25</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<label></label>
+			<font>font10</font>
+			<textcolor>DDced8da</textcolor>
+			<scroll>true</scroll>
+		</control>
+
+		<control type="label" id="8">
+			<description>Info2</description>
+			<posx>130</posx>
+			<posy>70</posy>
+			<width>495</width>
+			<height>25</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<label></label>
+			<font>font10</font>
+			<textcolor>DDced8da</textcolor>
+			<scroll>true</scroll>
+		</control>
+
+		<control type="label" id="9">
+			<description>Info3</description>
+			<posx>130</posx>
+			<posy>95</posy>
+			<width>495</width>
+			<height>25</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<label></label>
+			<font>font10</font>
+			<textcolor>DDced8da</textcolor>
+			<scroll>true</scroll>
+		</control>
+
+		<control type="textbox" id="10">
+			<description>textarea</description>
+			<posx>130</posx>
+			<posy>120</posy>
+			<width>480</width>
+			<height>90</height>
+			<label>-</label>
+			<font>font10</font>
+			<align>left</align>
+			<textcolor>FFFFFFFF</textcolor>
+			<pagecontrol>61</pagecontrol>
+		</control>
+			<control type="group">
+				<visible>Control.isVisible(10)</visible>
+				<control type="button">
+					<posx>615</posx>
+					<posy>120</posy>
+					<width>15</width>
+					<height>15</height>
+					<texturefocus border="2">scrollbar_arrow_up_focus.png</texturefocus>
+					<texturenofocus border="2">scrollbar_arrow_up.png</texturenofocus>
+					<onclick>PageUp(10)</onclick>
+					<visible>Control.IsVisible(61)</visible>
+				</control>
+				<control type="scrollbar" id="61">
+					<posx>615</posx>
+					<posy>135</posy>
+					<width>15</width>
+					<height>65</height>
+					<texturesliderbackground border="4">scrollbar_background.png</texturesliderbackground>
+					<texturesliderbar border="4">scrollbar_bar.png</texturesliderbar>
+					<texturesliderbarfocus border="4">scrollbar_bar_focus.png</texturesliderbarfocus>
+					<textureslidernib>scrollbar_nib.png</textureslidernib>
+					<textureslidernibfocus>scrollbar_nib.png</textureslidernibfocus>
+					<onleft>11</onleft>
+					<onright>11</onright>
+					<showonepage>false</showonepage>
+					<orientation>vertical</orientation>
+				</control>
+				<control type="button">
+					<posx>615</posx>
+					<posy>200</posy>
+					<width>15</width>
+					<height>15</height>
+					<texturefocus border="2">scrollbar_arrow_down_focus.png</texturefocus>
+					<texturenofocus border="2">scrollbar_arrow_down.png</texturenofocus>
+					<onclick>PageDown(10)</onclick>
+					<visible>Control.IsVisible(61)</visible>
+				</control>
+			</control>
+
+		<control type="group">
+			<posx>15</posx>
+			<posy>220</posy>
+			<width>640</width>
+			<height>300</height>
+			<control type="list" id="11">
+				<posx>0</posx>
+				<posy>0</posy>
+				<width>599</width>
+				<height>300</height>
+				<onleft>61</onleft>
+				<onright>62</onright>
+				<onup>10</onup>
+				<ondown>10</ondown>
+				<viewtype label="list">list</viewtype>
+				<pagecontrol>62</pagecontrol>
+				<itemlayout height="25">
+					<control type="image">
+						<posx>0</posx>
+						<posy>0</posy>
+						<width>600</width>
+						<height>25</height>
+						<texture border="3">button-nofocus.png</texture>
+					</control>
+					<control type="label">
+						<posx>3</posx>
+						<posy>0</posy>
+						<width>600</width>
+						<height>25</height>
+						<font>font10</font>
+						<aligny>center</aligny>
+						<selectedcolor>FFe2ff43</selectedcolor>
+						<textcolor>BBFFFFFF</textcolor>
+						<align>left</align>
+						<info>ListItem.Label</info>
+					</control>
+					<control type="label">
+						<posx>600</posx>
+						<posy>0</posy>
+						<width>110</width>
+						<height>25</height>
+						<font>font10</font>
+						<aligny>center</aligny>
+						<selectedcolor>FFe2ff43</selectedcolor>
+						<textcolor>white</textcolor>
+						<align>right</align>
+						<info>ListItem.Label2</info>
+					</control>
+				</itemlayout>
+				<focusedlayout height="25">
+					<control type="image">
+						<posx>0</posx>
+						<posy>0</posy>
+						<height>25</height>
+						<width>600</width>
+						<visible>Control.HasFocus(11)</visible>
+						<texture border="3">input-focus.png</texture>
+					</control>
+					<control type="label">
+						<posx>3</posx>
+						<posy>0</posy>
+						<width>600</width>
+						<height>25</height>
+						<font>font10</font>
+						<aligny>center</aligny>
+						<selectedcolor>FFe2ff43</selectedcolor>
+						<textcolor>FFFFFF99</textcolor>
+						<align>left</align>
+						<info>ListItem.Label</info>
+					</control>
+					<control type="label">
+						<posx>600</posx>
+						<posy>0</posy>
+						<width>105</width>
+						<height>25</height>
+						<font>font10</font>
+						<aligny>center</aligny>
+						<selectedcolor>FFe2ff43</selectedcolor>
+						<textcolor>FFFFFF99</textcolor>
+						<align>right</align>
+						<info>ListItem.Label2</info>
+					</control>
+				</focusedlayout>
+			</control>
+			<!-- SCROLL BAR FOR LIST -->
+			<control type="group">
+				<visible>Control.isVisible(11)</visible>
+				<control type="button">
+					<posx>600</posx>
+					<posy>0</posy>
+					<width>15</width>
+					<height>15</height>
+					<texturefocus border="2">scrollbar_arrow_up_focus.png</texturefocus>
+					<texturenofocus border="2">scrollbar_arrow_up.png</texturenofocus>
+					<onclick>PageUp(11)</onclick>
+					<visible>Control.IsVisible(62)</visible>
+				</control>
+				<control type="scrollbar" id="62">
+					<posx>600</posx>
+					<posy>15</posy>
+					<width>15</width>
+					<height>269</height>
+					<texturesliderbackground border="4">scrollbar_background.png</texturesliderbackground>
+					<texturesliderbar border="4">scrollbar_bar.png</texturesliderbar>
+					<texturesliderbarfocus border="4">scrollbar_bar_focus.png</texturesliderbarfocus>
+					<textureslidernib>scrollbar_nib.png</textureslidernib>
+					<textureslidernibfocus>scrollbar_nib.png</textureslidernibfocus>
+					<onleft>11</onleft>
+					<onright>61</onright>
+					<showonepage>false</showonepage>
+					<orientation>vertical</orientation>
+				</control>
+				<control type="button">
+					<posx>600</posx>
+					<posy>284</posy>
+					<width>15</width>
+					<height>15</height>
+					<texturefocus border="2">scrollbar_arrow_down_focus.png</texturefocus>
+					<texturenofocus border="2">scrollbar_arrow_down.png</texturenofocus>
+					<onclick>PageDown(11)</onclick>
+					<visible>Control.IsVisible(62)</visible>
+				</control>
+			</control>
+		</control>
+
+		<control type="image">
+			<description>item image frame</description>
+			<posx>10</posx>
+			<posy>50</posy>
+			<width>120</width>
+			<height>180</height>
+			<texture border="3,3,3,3">dialog-panel2.png</texture>
+		</control>
+		<control type="image" id="12">
+			<description>item image</description>
+			<posx>18</posx>
+			<posy>53</posy>
+			<width>108</width>
+			<height>165</height>
+			<aspectratio>keep</aspectratio>
+			<texture></texture>
+		</control>
+
+		</controls>
+</window>

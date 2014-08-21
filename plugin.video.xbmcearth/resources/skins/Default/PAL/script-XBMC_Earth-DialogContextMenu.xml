@@ -1,0 +1,159 @@
+<window id="106">
+	<defaultcontrol>1000</defaultcontrol>
+	<animation effect="fade" time="200">WindowOpen</animation>
+	<animation effect="fade" time="200">WindowClose</animation>
+	<coordinates>
+		<system>1</system>
+		<posx>150</posx>
+		<posy>150</posy>
+	</coordinates>
+	<controls>
+		<control type="image" id="997">
+			<description>background top image</description>
+			<posx>0</posx>
+			<posy>-25</posy>
+			<width>245</width>
+			<height>26</height>
+			<texture>ContextMenu_Top.png</texture>
+		</control>
+		<control type="image" id="999">
+			<description>background image</description>
+			<posx>0</posx>
+			<posy>0</posy>
+			<width>245</width>
+			<height>250</height>
+			<texture>ContextMenu_Middle.png</texture>
+		</control>
+		<control type="image" id="998">
+			<description>background bottom image</description>
+			<posx>0</posx>
+			<posy>250</posy>
+			<width>245</width>
+			<height>25</height>
+			<texture>ContextMenu_Bottom.png</texture>
+		</control>
+		<control type="label" id="500">
+			<description>Heading Label</description>
+			<posx>22</posx>
+			<posy>0</posy>
+			<width>220</width>
+			<align>center</align>
+			<label>214</label>
+			<font>special13</font>
+			<textcolor>DDced8da</textcolor>
+		</control>
+		<control type="button" id="99">
+			<description>close</description>
+			<posx>203</posx>
+			<posy>-7</posy>
+			<width>25</width>
+			<height>20</height>
+			<align>center</align>
+			<onup>2</onup>
+			<ondown>101</ondown>
+			<texturefocus>close-windowFO.png</texturefocus>
+			<texturenofocus>close-window.png</texturenofocus>
+		</control>
+		<control type="button" id="100">
+			<description>Fav1</description>
+			<posx>22</posx>
+			<posy>25</posy>
+			<width>150</width>
+			<height>32</height>
+			<align>center</align>
+			<onup>2</onup>
+			<ondown>101</ondown>
+			<onright>1000</onright>
+			<texturefocus>amt-button-focus.png</texturefocus>
+			<texturenofocus>amt-button-nofocus.png</texturenofocus>
+		</control>
+			<control type="button" id="1000">
+				<description>Fav1 SET</description>
+				<posx>178</posx>
+				<posy>25</posy>
+				<width>45</width>
+				<height>32</height>
+				<align>center</align>
+				<onup>2</onup>
+				<ondown>1001</ondown>
+				<onleft>100</onleft>
+				<texturefocus>amt-button-focus.png</texturefocus>
+				<texturenofocus>amt-button-nofocus.png</texturenofocus>
+			</control>
+		<control type="button" id="101">
+			<description>Fav2</description>
+			<posx>22</posx>
+			<posy>62</posy>
+			<width>150</width>
+			<height>32</height>
+			<align>center</align>
+			<onup>100</onup>
+			<ondown>102</ondown>
+			<onright>1001</onright>
+			<texturefocus>amt-button-focus.png</texturefocus>
+			<texturenofocus>amt-button-nofocus.png</texturenofocus>
+		</control>
+			<control type="button" id="1001">
+				<description>Fav2 SET</description>
+				<posx>178</posx>
+				<posy>62</posy>
+				<width>45</width>
+				<height>32</height>
+				<align>center</align>
+				<onup>1000</onup>
+				<ondown>1002</ondown>
+				<onleft>101</onleft>
+				<texturefocus>amt-button-focus.png</texturefocus>
+				<texturenofocus>amt-button-nofocus.png</texturenofocus>
+			</control>
+		<control type="button" id="102">
+			<description>Fav3</description>
+			<posx>22</posx>
+			<posy>99</posy>
+			<width>150</width>
+			<height>32</height>
+			<align>center</align>
+			<onup>101</onup>
+			<ondown>103</ondown>
+			<onright>1002</onright>
+			<texturefocus>amt-button-focus.png</texturefocus>
+			<texturenofocus>amt-button-nofocus.png</texturenofocus>
+		</control>
+			<control type="button" id="1002">
+				<description>Fav3 SET</description>
+				<posx>178</posx>
+				<posy>99</posy>
+				<width>45</width>
+				<height>32</height>
+				<align>center</align>
+				<onup>2</onup>
+				<ondown>103</ondown>
+				<onup>1002</onup>
+				<onleft>102</onleft>
+				<texturefocus>amt-button-focus.png</texturefocus>
+				<texturenofocus>amt-button-nofocus.png</texturenofocus>
+			</control>
+		<control type="label" id="501">
+			<description>Heading Label</description>
+			<posx>22</posx>
+			<posy>136</posy>
+			<width>220</width>
+			<align>center</align>
+			<label>214</label>
+			<font>special13</font>
+			<textcolor>DDced8da</textcolor>
+		</control>
+		<control type="button" id="103">
+			<description>Weather</description>
+			<posx>22</posx>
+			<posy>173</posy>
+			<width>201</width>
+			<height>32</height>
+			<align>center</align>
+			<onup>102</onup>
+			<ondown>2</ondown>
+			<texturefocus>amt-button-focus.png</texturefocus>
+			<texturenofocus>amt-button-nofocus.png</texturenofocus>
+		</control>
+	</controls>
+</window>

@@ -1,0 +1,56 @@
+    <!-- (required) guuid: unique identifier of this addon
+    guuids can be generated online at sites such as http://www.famkruithof.net/uuid/uuidgen -->
+    <guid>48588ed0-8baa-11e1-b0c4-0800200c9a66</guid>
+
+    <!-- (required) type:
+    1:  visualization
+    2:  skin
+    3:  pvrdll
+    4:  script
+    5:  scraper
+    6:  screensaver
+    7:  plugin-pvr
+    8:  plugin-video
+    9:  plugin-music
+    10: plugin-program
+    11: plugin-pictures
+    12: plugin-weather -->
+    <type>8</type>
+
+    <!-- (required) Title -->
+    <title>OpenFilm</title>
+
+    <!-- (required) Major.minor.build -->
+    <version>1.0.1</version>
+
+    <!-- (required) author name & email.  at least one author name is required -->
+    <authors>
+        <author name="queeup" email="" />
+    </authors>
+
+    <!-- (required) Short description of addon. -->
+    <summary>OpenFilm.com video add-on</summary>
+
+    <!-- Longer descrption of addon.  Usage instructions should go here if required. -->
+    <description>Openfilm brings the best elements of the film industry together. With an innovative platform designed to change the process of discovering great independent film, Openfilm is dedicated to developing, marketing and distributing great works.</description>
+
+    <!-- user defined tags e.g. <tags><tag>Example</tag></tags> -->
+    <tags>
+        <tag>TV Movie</tag>
+    </tags>
+
+    <!-- minimum revision of xbmc your addon will run on.  Leave blank all revisions-->
+    <minrevision></minrevision>
+
+    <!--patforms compatible with your addon.   xbox, osx, windows, linux, or all -->
+    <platforms>
+        <platform>all</platform>
+    </platforms>
+
+    <!-- (optional) Whatever is put in disclaimer will be shown before download in an ok/cancel dialog.
+    Keep it short and to the point. -->
+    <disclaimer></disclaimer>
+
+    <!-- (optional) The License the addon is released under.-->
+    <license>WTFPL</license>
+</addoninfo>

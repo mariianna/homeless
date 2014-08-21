@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+  <!-- Title -->
+  <string id="30000">Google Listen</string>
+
+  <!-- Directory -->
+  <string id="30101">My subscriptions</string>
+  <string id="30102">Add New Subscriptions</string>
+  <string id="30103">Search</string>
+  <string id="30104">More...</string>
+  <string id="30105">[COLOR=FF00FF00]%s[/COLOR] [B]new episode(s)[/B]</string>
+  <string id="30106">[B][I]no new episode[/I][/B]</string>  
+  
+  <!-- Settings -->
+  <string id="30201">Google Sing In</string>
+  <string id="30202">User Name</string>
+  <string id="30203">Password</string>
+  <string id="30204">Number of items per page</string>
+
+  <!-- Context Menu-->
+  <string id="30301">Subscribe</string>
+  <string id="30302">Unsubscribe</string>
+  <string id="30303">More Episodes</string>
+  <string id="30304">Play All</string>
+  
+  <!-- Dialog Text-->
+  <string id="30401">Do you want to sign in your Google Account?</string>
+  <string id="30402">If you sing in, you can subscribe podcasts!</string>
+  <string id="30403">Enter Search Term</string>
+  <string id="30404">Enter URL</string>
+</strings>

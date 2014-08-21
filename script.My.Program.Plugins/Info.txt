@@ -1,0 +1,9 @@
+Repository: http://passion-xbmc.googlecode.com/svn/trunk/
+
+
+Author:
+Frost
+
+
+About:
+A shortcut to take you from "scripts" to "program plugins".

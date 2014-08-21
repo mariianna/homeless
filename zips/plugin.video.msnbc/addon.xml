@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.msnbc"
+       name="MSNBC"
+       version="0.0.4"
+       provider-name="andre">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+	<import addon="script.module.simplejson"/>
+	<import addon="script.module.elementtree"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Stream videos from news channel MSNBC</summary>
+    <platform>all</platform>
+	<license>GPL</license>
+	<genre>news</genre>
+  </extension>
+</addon>

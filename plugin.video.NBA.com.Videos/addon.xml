@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.NBA.com.Videos"
+       name="NBA.com Videos"
+       version="1.0.6"
+       provider-name="stacked">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch sports clips from NBA.com</summary>
+    <description>Watch sports clips from NBA.com.  IMPORTANT INFO: You must enable "Use DVD Player" in plugin settings or streams will fail to play.</description>
+    <platform>all</platform>
+	<genre>sports</genre>
+  </extension>
+</addon>

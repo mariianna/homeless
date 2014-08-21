@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <setting id="firststart" type="bool" visible="false" enable="false" default="true" />
+    <setting id="perpage" type="labelenum" label="30204" values="10|15|20|50|100|500" default="15" />
+    <setting id="google" type="bool" label="30201" default="false" />
+    <setting id="gUser" type="text"  visible="eq(-1,true)" enable="!eq(-1,)" label="30202" default="@gmail.com"/>
+    <setting id="gPass" type="text" option="hidden" visible="eq(-2,true)" enable="!eq(-1,)" label="30203" default=""/>
+</settings>

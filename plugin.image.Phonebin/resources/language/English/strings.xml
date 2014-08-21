@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Settings -->
+	<string id="30000">View Readme</string>
+	<string id="30001">View Changelog</string>
+	<string id="30002">Page Size:</string>
+
+	<!-- Errors -->
+	<string id="30900">Error!</string>
+	<string id="30901">No data found!</string>
+	<string id="30902">Page parsing failed!</string>
+
+	<!-- Plugin -->
+	<string id="30920">Processing ...</string>
+	<string id="30921">Downloading ...</string>
+	<string id="30922">Next Page</string>
+
+	<!-- Category -->
+	<string id="30950">Photos</string>
+	<string id="30951">Latest Comments</string>
+	<string id="30952">Yesterdays Top</string>
+	<string id="30953">This Months Top</string>
+	<string id="30954">Videos</string>
+	<string id="30955">Albums: Open</string>
+	<string id="30956">Albums: Library</string>
+
+	<!-- compatible messages -->
+	<string id="30700">Version</string>
+	<string id="30701">This version of %s requires an</string>
+	<string id="30702">XBMC revision of %s or greater to run.</string>
+	<string id="30703">Please update your XBMC.</string>
+
+</strings>
